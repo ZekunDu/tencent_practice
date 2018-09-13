@@ -1,0 +1,5 @@
+4 4
+Y X X B
+X Y G X
+X B Y Y
+B X X Y
